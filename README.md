@@ -1,7 +1,10 @@
 # sendx-backend-IIT2020191
 
+#  live project is hosted on render, directly visit it by using below link.
+https://webcrawler-sdtc.onrender.com/
 
-# first download the zip file of this project.
+
+# To download and run on your local machine, first download the zip file of this project.
 
 # run the following get command inside your terminal to install the required dependency
 go get "github.com/PuerkitoBio/goquery"
